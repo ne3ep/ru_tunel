@@ -18,7 +18,7 @@
 ## NekoRay (PC) [Скачать](https://en.nekoray.org/download/)
 [Общая настройка](https://blancvpn.io/ru/help/NekoRay-windows-split-tunneling)
 
-## NekoBox (Android)[Скачать](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+## NekoBox (Android) [Скачать](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 **Настройка сайтов:**
 Меню(3 линии слева сверху)>Маршруты>Правило домена для Russia/Правило IP для Russia/Настройка самостоятельно сверху справа
 
