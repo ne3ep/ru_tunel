@@ -1,5 +1,5 @@
 # Настройки раздельного туннелирования в разных клиентах
-## AmneziaVPN
+## [AmneziaVPN](https://amnezia.org/ru/downloads)
 ### PC
 [Настройка приложений](https://pikabu.ru/story/amneziavrn_ispolzuem_razdelnoe_tunnelirovanie_dlya_programm_i_prilozheniy_12244055) (Рекомендую добавлять приложения по одному, так как могут быть проблемы)
 
@@ -8,14 +8,14 @@
 [Настройка приложений](https://pikabu.ru/story/vyiborochnoe_tunnelirovanie_prilozheniy_cherez_vpn_dlya_prilozheniya_amneziavpn_na_android_12330209)
 
 [Настройка сайтов](https://docs.amnezia.org/ru/documentation/instructions/vpn-split-tunneling/)
-## Hiddify
+## [Hiddify](https://github.com/hiddify/hiddify-app/releases)
 ### PC
 [Настройка региона](https://fizzvpn.io/install-guide/#hiddify-next)
 ### Android
 [Настройка региона](https://fizzvpn.io/install-guide/#hiddify-next)
 
 [Настройка приложений](https://teletype.in/@aurorax_vpn/hiddify_vless_android)
-## NekoRay (PC)
+## [NekoRay (PC)](https://en.nekoray.org/download/)
 [Общая настройка](https://blancvpn.io/ru/help/NekoRay-windows-split-tunneling)
 
 ## NekoBox (Android)
