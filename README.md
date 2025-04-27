@@ -6,5 +6,25 @@
 [Настройка сайтов](https://docs.amnezia.org/ru/documentation/instructions/vpn-split-tunneling/)
 ### Android
 [Настройка приложений](https://pikabu.ru/story/vyiborochnoe_tunnelirovanie_prilozheniy_cherez_vpn_dlya_prilozheniya_amneziavpn_na_android_12330209)
+
 [Настройка сайтов](https://docs.amnezia.org/ru/documentation/instructions/vpn-split-tunneling/)
 ## Hiddify
+### PC
+[Настройка региона](https://fizzvpn.io/install-guide/#hiddify-next)
+### Android
+[Настройка региона](https://fizzvpn.io/install-guide/#hiddify-next)
+
+[Настройка приложений](https://teletype.in/@aurorax_vpn/hiddify_vless_android)
+## NekoRay (PC)
+[Общая настройка](https://blancvpn.io/ru/help/NekoRay-windows-split-tunneling)
+## NekoBox (Android)
+**Настройка сайтов:**
+Меню(3 линии слева сверху)>Маршруты>Правило домена для Russia/Правило IP для Russia/Настройка самостоятельно сверху справа
+
+**Настройка приложений**:
+Меню>Настройки>Настройки маршрута>Режим VPN для приложений
+##V2RayTun (Android)
+[Настройка приложений](https://telegra.ph/Nastrojka-razdelnogo-proksirovaniya-v-v2RayTun-na-android-11-24)
+
+**Настройка сайтов:**
+Маршрутизация>+(сверху справа)
