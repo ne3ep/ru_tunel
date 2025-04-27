@@ -17,13 +17,14 @@
 [Настройка приложений](https://teletype.in/@aurorax_vpn/hiddify_vless_android)
 ## NekoRay (PC)
 [Общая настройка](https://blancvpn.io/ru/help/NekoRay-windows-split-tunneling)
+
 ## NekoBox (Android)
 **Настройка сайтов:**
 Меню(3 линии слева сверху)>Маршруты>Правило домена для Russia/Правило IP для Russia/Настройка самостоятельно сверху справа
 
 **Настройка приложений**:
 Меню>Настройки>Настройки маршрута>Режим VPN для приложений
-##V2RayTun (Android)
+## V2RayTun (Android)
 [Настройка приложений](https://telegra.ph/Nastrojka-razdelnogo-proksirovaniya-v-v2RayTun-na-android-11-24)
 
 **Настройка сайтов:**
